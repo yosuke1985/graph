@@ -17,3 +17,5 @@ doc/
 .DS_Store
 .idea
 .secret
+
+/config/initializers/amazon_ecs.rb
