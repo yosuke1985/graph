@@ -6,7 +6,7 @@ gem 'rails', '4.2.4'
 gem 'bootstrap-sass', '2.3.2.0'
 gem 'sprockets', '2.11.0'
 gem 'amazon-ecs', '~> 2.3.1'
-gem 'rails_config'
+gem 'config'
 
 group :development, :test do
   gem 'sqlite3'
