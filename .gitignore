@@ -19,3 +19,8 @@ doc/
 .secret
 
 /config/initializers/amazon_ecs.rb
+
+
+config/settings.local.yml
+config/settings/*.local.yml
+config/environments/*.local.yml
